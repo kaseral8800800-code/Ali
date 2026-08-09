@@ -1,0 +1,14 @@
+{
+  "codes": [
+    {"code": "ABC123", "name": "أحمد محمد", "used": false, "date": ""},
+    {"code": "DEF456", "name": "سارة علي", "used": false, "date": ""},
+    {"code": "GHI789", "name": "محمد خالد", "used": false, "date": ""},
+    {"code": "JKL012", "name": "فاطمة حسن", "used": false, "date": ""},
+    {"code": "MNO345", "name": "عمر وليد", "used": false, "date": ""},
+    {"code": "PQR678", "name": "نور أحمد", "used": false, "date": ""},
+    {"code": "STU901", "name": "لينا محمود", "used": false, "date": ""},
+    {"code": "VWX234", "name": "كريم سامر", "used": false, "date": ""},
+    {"code": "YZA567", "name": "رنا خالد", "used": false, "date": ""},
+    {"code": "BCD890", "name": "وسام علي", "used": false, "date": ""}
+  ]
+}
